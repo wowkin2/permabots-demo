@@ -3,7 +3,7 @@ django-environ==0.4.0
 whitenoise==3.0
 
 # DB
-psycopg2==2.6.1
+psycopg2==2.8.5
 
 # Redis for caching
 django-redis==4.3.0
@@ -15,7 +15,7 @@ django-rest-swagger==0.3.5
 # WSGI Handler
 # ------------------------------------------------
 gevent==1.0.2
-gunicorn==19.4.5
+gunicorn==20.0.4
 
 
 permabots==2.0.1
