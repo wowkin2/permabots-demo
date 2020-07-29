@@ -8,7 +8,7 @@ Just a demo for Permabots.
 
 Permabots is a Django App to build chat bots and connect then to your app APIs. 
 
-Repository: https://github.com/jlmadurga/permabots/
+Base Repository: https://github.com/jlmadurga/permabots/
 
 Official implementation: http://www.permabots.com
 
@@ -17,11 +17,11 @@ Official implementation: http://www.permabots.com
     :target: http://www.permabots.com
 
 
-Deploy with Heroku
+Deploy with Heroku (this fork)
 ----------------------
 
 .. image:: https://www.herokucdn.com/deploy/button.svg
-    :target: https://heroku.com/deploy?template=https://github.com/jlmadurga/permabots-demo/tree/master
+    :target: https://heroku.com/deploy?template=https://github.com/wowkin2/permabots-demo/tree/master
 
 
 Usage
